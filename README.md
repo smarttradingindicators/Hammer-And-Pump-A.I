@@ -1,6 +1,6 @@
 # 🚀 Hammer And Pump A.I
 
-![Hammer And Pump A.I](1D Hammer and Pump.jpg)
+![Hammer And Pump A.I](1D%20Hammer%20and%20Pump.jpg)
 
 Welcome to the next level of trading with Hammer And Pump A.I, a cutting-edge trading tool developed with artificial intelligence and advanced filtering techniques. This indicator provides real-time signals, enabling traders to seize the best opportunities in the financial markets.
 
