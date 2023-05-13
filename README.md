@@ -1,4 +1,4 @@
-# 🚀 Hammer And Pump A.I | smarttradingindicators.com
+# 🚀 Hammer And Pump A.I
 
 ![Hammer And Pump A.I](1D Hammer and Pump.jpg)
 
